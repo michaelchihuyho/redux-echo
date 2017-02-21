@@ -11,3 +11,5 @@ Right now this has just been built out as a prototype/proof-of-concept. Use at y
 - Make instrumentation in real apps simpler
 - Prevent more than one broadcaster for a particular ID
 - Disallow users to broadcast if there is no one monitoring at that ID
+- Make sure initial state is the same when booting app
+- Proactively synchronize state?

@@ -10,5 +10,6 @@
 
 ### View
 
-Broadcaster: http://localhost:8900?debug=12345
-Listener: http://localhost:8900?debug=12345&debugToken=some_token
+Broadcaster: <http://localhost:8900?debug=12345>
+
+Listener: <http://localhost:8900?debug=12345&debugToken=some_token>
